@@ -34,7 +34,7 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 
 - Makinig sa Radyo sa mga update
 - Ireview ang mga emergency plan at ihanda ang mga emergency supplies.
-- Siguraduhin na may laman ang gas tank ng iyong sasakyan
+- Siguraduhin na may laman ang gas tank ng iyong sasakyan<img align="right" height="90" src="https://user-images.githubusercontent.com/102717555/190846541-943de181-e22d-438d-ac65-828d532be2ce.png">
 - Kung walang makipag-ayos sa mga kaibigan o pamilya para sa transportasyon, o sundin ang mga bilin ng mga awtoridad kung saan kukuha ng transportasyon.
 - Punan ang mga lalagyan ng tubig para magkaroon ng supply para sa paghuhugas
 
@@ -74,28 +74,22 @@ May mga panganib pa rin kahit tapos na ang kalamidad. Ang ashfall ay isa dito. N
 #### Ang Pagputok ng Bulkan ay maaring dumulot ng:
 [Lindol](https://www.cdc.gov/disasters/earthquakes/index.html)
 
+Kasama ang impormasyon sa paghahanda para sa pagiging ligtas, at pagbawi mula sa isang lindol.
+
 [Pagbaha](https://www.cdc.gov/disasters/floods/index.html)
+
+Kasama ang impormasyon sa pagtiyak na ang pagkain at tubig ay ligtas, paglilinis, at mga pang-emerhensiyang supply.
 
 [Pagguho ng Lupa](https://www.cdc.gov/disasters/landslides.html)
 
+May kasamang impormasyon tungkol sa mga hakbang na proteksiyon na dapat gawin bago, habang, at pagkatapos ng pagguho ng lupa o pagdaloy ng mga labi.
+
 [Power Outage](https://www.cdc.gov/disasters/poweroutage/index.html)
 
+May kasamang impormasyon tungkol sa pagkalason sa carbon monoxide, alternatibong init at pinagmumulan ng enerhiya, mga naputol na linya ng kuryente, at kaligtasan sa pagkain at tubig.
 [Pagkasunog ng Kagubatan](https://www.cdc.gov/disasters/wildfires/)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildfire.
 
 # Mga Hindi Dapat Gawin
 
