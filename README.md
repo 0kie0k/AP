@@ -8,7 +8,7 @@
 
 Ang pagputok ng bulkan ay kapag ang magma at gas ay inilabas mula sa isang bulkan na kung minsan ay sumasabog. Ang pinaka-mapanganib na uri ng pagsabog ay tinatawag na ***'glowing avalanche'*** na kung saan ay kapag ang bagong sumabog na magma ay dumadaloy pababa sa mga gilid ng isang bulkan. Maaari silang maglakbay nang mabilis at umabot sa temperatura na hanggang ***650 degrees Celsius.*** Kaya paano ba tayo maging maingat at malayo sa kapahamakan nito? Halika at alamin mo rito.
 
-### Mga Gawin Bago 
+## Bago 
 
 Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang plano sa pagsilong para sa iyong sarili, iyong pamilya, at iba pang miyembro sa iyong sambahayan. Suriin ang mga plano at tiyaking naiintindihan ng lahat ang mga ito. Magsama ng isang pang-emerhensiyang supply na naglalaman ng mga:
 
@@ -25,8 +25,19 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Respiratory (breathing) protection
 - Eye protection (goggles)
 - Battery-powered radio
-- Mga Tools<img align="right" height="97" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
+- Mga Tools<img align="right" height="94" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
   - Screwdriver
   - Gunting
   - Martilyo
-
+### Kapag inatasan na lumikas
+- Makinig sa Radyo sa mga update
+- Ireview ang mga emergency plan at ihanda ang mga emergency supplies.
+- Siguraduhin na may laman ang gas tank ng iyong sasakyan
+- Kung walang makipag-ayos sa mga kaibigan o pamilya para sa transportasyon, o sundin ang mga bilin ng mga awtoridad kung saan kukuha ng transportasyon.
+- Punan ang mga lalagyan ng tubig para magkaroon ng supply para sa paghuhugas
+### Kapag inatasan na manatili
+- Makinig pa rin sa radyo o telebisyon hanggang sa ligtas na o kung inatasan na lumikas sa iyong tahanan.
+- Saraduhin ang mga bintana at mga pintuan
+- Ayusin ang mga supplies
+- Seguraduhin na gumagana ang radyo att iba pang mga electronic devices
+## Habang
