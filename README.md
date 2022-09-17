@@ -1,1 +1,1 @@
-# Pagputok ng Bulkan
+# <center> Pagputok ng Bulkan
