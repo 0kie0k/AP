@@ -96,7 +96,7 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
 
 # Mga Hindi Dapat Gawin
 
-*Maaring pindutin ang mga text*
+*Maaaring pindutin ang Bago, Habang at Pagkatapos.*
 
 <details>
 <summary>Bago</summary>
