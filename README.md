@@ -41,3 +41,11 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Ayusin ang mga supplies
 - Seguraduhin na gumagana ang radyo att iba pang mga electronic devices
 ## Habang
+Manatili sa loob ng bahay, Isarado power grid ng bahay at mga bintana at pintuan. Lumayo sa mga bagay na madaling masira tulad ng mga mababasagin na plato at mga bintana. Ang pagpuputok ng bulkan ay maaring magdulot ng mga lindol. Gawin ang Duck, Cover, and Hold sa sakaling mangyari ito. Makinig sa mga update ng radyo at telebisyon.   
+### Kapag nasa Labas
+- Humanap ng silungan
+- Kung malapit sa ilog, posible ang pagtaas ng tubig at pag-agos ng putik sa mababang lugar. Maghanap ng mataas na lugar nang mabilis hangga't maaari.
+- Maaaring mairita ang iyong mga mata, at ilong dahil sa mga ash at gas na ibinubuga ng bulkan, lumikas agad sa lugar. Kung maaari, magsuot ng safety gear tulad ng mask o basang tela sa iyong bibig at ilong at safety goggle sa iyong mata upang mabawasan ang epekto nito sa ating katawan.
+### Kung papunta sa iyong direksiyon ang lahar o lava
+- Lumikas agad ng lugar.
+- Kung may sasakyan, gamitin ito sa paglilikas at tumungo sa pinakamalapit na evacuation center.
