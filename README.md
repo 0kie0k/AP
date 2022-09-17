@@ -43,7 +43,7 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Makinig pa rin sa radyo o telebisyon hanggang sa ligtas na o kung inatasan na lumikas sa iyong tahanan.
 - Saraduhin ang mga bintana at mga pintuan
 - Ayusin ang mga supplies
-- Seguraduhin na gumagana ang radyo att iba pang mga electronic devices
+- Seguraduhin na gumagana ang radyo at iba pang mga electronic devices
 
 ## Habang
 
@@ -70,6 +70,32 @@ May mga panganib pa rin kahit tapos na ang kalamidad. Ang ashfall ay isa dito. N
 - Mag-iwas sa mga lugar na maraming abo, kung posible. Iwasan na magcontact ang abo sa iyo. Takluban ang sarili upang maiwasan ang pagiirita ng iyong balat dahil sa abo
 - Lumakbay lang kung kailangan, ang ashfall ay maaring pumunta sa loob ng iyong sasakyan at magdulot ng problema sa makina.
 - Linisin ang bubong: Magabat ang abo kapag tumambak ito at maaring magcollapse ang iyong bubong. Mag-ingat sa paglilinis dahil maaaring madulas sa abo.
+
+#### Ang Pagputok ng Bulkan ay maaring dumulot ng:
+[Lindol](https://www.cdc.gov/disasters/earthquakes/index.html)
+
+[Pagbaha](https://www.cdc.gov/disasters/floods/index.html)
+
+[Pagguho ng Lupa](https://www.cdc.gov/disasters/landslides.html)
+
+[Power Outage](https://www.cdc.gov/disasters/poweroutage/index.html)
+
+[Pagkasunog ng Kagubatan](https://www.cdc.gov/disasters/wildfires/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Mga Hindi Dapat Gawin
 
