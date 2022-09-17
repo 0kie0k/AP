@@ -87,14 +87,12 @@ May kasamang impormasyon tungkol sa mga hakbang na proteksiyon na dapat gawin ba
 [Power Outage](https://www.cdc.gov/disasters/poweroutage/index.html)
 
 May kasamang impormasyon tungkol sa pagkalason sa carbon monoxide, alternatibong init at pinagmumulan ng enerhiya, mga naputol na linya ng kuryente, at kaligtasan sa pagkain at tubig.
-[
-Pagkasunog ng Kagubatan](https://www.cdc.gov/disasters/wildfires/)
+
+[Pagkasunog ng Kagubatan](https://www.cdc.gov/disasters/wildfires/)
 
 May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildfire.
 
 # Mga Hindi Dapat Gawin
-
-
 
 <details>
 <summary>Bago</summary>
@@ -103,11 +101,10 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
   <li> Pananatili sa mabababang lugar</li>
   <li> Pananatili sa mga ilog malapit sa bulkan</li>
   <li> Pagbabalewala sa mga balita at warnings tungkol sa pagputok ng bulkan</li>
-<ul>
+</ul>
+  
 </details>
 
-
-  
   <details>
 <summary>Habang</summary>
 <br>
@@ -118,7 +115,7 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
   <li> Pagpapanic sa oras ng kalamidad</li>
   <li> Paglalabas ng gusali kahit wala namang dahilan</li>
   <li> Hindi pagsusuot ng mask o goggles o kahit anong safety gear laban sa abo</li>
-<ul>
+</ul>
 </details>
 
 
@@ -131,17 +128,17 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
   <li> Pagbabalewala sa mga balita at warnings tungkol sa pagputok ng bulkan</li>
   <li> Paglalabas ng gusali kahit wala namang dahilan</li>
   <li> Hindi pagsusuot ng mask o goggles o kahit anong safety gear laban sa abo</li>
-<ul>
-  </details>
+</ul>
+</details>
 
- 
-  
-  
-  
-  
-  ##
- 
-  
+<h3>Sanggunian</h3>
+
+[Bago](https://www.cdc.gov/disasters/volcanoes/before.html)
+
+[Habang](https://www.cdc.gov/disasters/volcanoes/during.html)
+
+[Pagkatapos](https://www.cdc.gov/disasters/volcanoes/after.html)
+
 
   
   
