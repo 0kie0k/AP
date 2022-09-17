@@ -12,11 +12,12 @@ Ang pagputok ng bulkan ay kapag ang magma at gas ay inilabas mula sa isang bulka
 
 Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang plano sa pagsilong para sa iyong sarili, iyong pamilya, at iba pang miyembro sa iyong sambahayan. Suriin ang mga plano at tiyaking naiintindihan ng lahat ang mga ito. Magsama ng isang pang-emerhensiyang supply na naglalaman ng mga:
 
-- Flashlight and extra batteries
-- First aid kit
+- Flashlight and extra batteries<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843110-f84f6e95-081f-430c-a04e-d7b0cb6f3159.png">
+- First aid kit<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843085-0ef19aab-8b29-46d7-abe8-7e6f99fece78.png">
   - Bandages
   - Alcohol o Disenfectant
-- Emergency food and water
+  - Thermometer
+- Emergency food and water<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843185-7739724d-e52d-439a-91f1-f053d1f239d6.png">
   - Canned Goods
   - Cracker o mga Biscuit
 - Can opener
@@ -25,7 +26,8 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Respiratory (breathing) protection
 - Eye protection (goggles)
 - Battery-powered radio
-- Mga Tools
+- Mga Tools<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843262-d86a5975-c898-4de9-94c8-555c29568445.png">
   - Martilyo
-  - Screwdriver 
+  - Screwdriver
+  - Gunting
 
