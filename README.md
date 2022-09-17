@@ -12,7 +12,7 @@ Ang pagputok ng bulkan ay kapag ang magma at gas ay inilabas mula sa isang bulka
 
 Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang plano sa pagsilong para sa iyong sarili, iyong pamilya, at iba pang miyembro sa iyong sambahayan. Suriin ang mga plano at tiyaking naiintindihan ng lahat ang mga ito. Magsama ng isang pang-emerhensiyang supply na naglalaman ng mga:
 
-- Flashlight and extra batteries<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843110-f84f6e95-081f-430c-a04e-d7b0cb6f3159.png">
+- Flashlight at extra batteries<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843110-f84f6e95-081f-430c-a04e-d7b0cb6f3159.png">
 - First aid kit<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843085-0ef19aab-8b29-46d7-abe8-7e6f99fece78.png">
   - Bandages
   - Alcohol o Disenfectant
@@ -21,11 +21,10 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
   - Canned Goods
   - Cracker o mga Biscuit
 - Can opener
-- Essential medicines
-- Sturdy shoes
-- Respiratory (breathing) protection
-- Eye protection (goggles)
-- Battery-powered radio
+- Essential na gamot
+- Respiratory (breathing) protection<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843509-201702e5-a1e4-450c-b73e-d38cee2bc13b.png">
+- Eye protection (goggles)<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843410-b12513b3-6960-4d78-b775-cb34d1757b83.png">
+- Battery-powered radio<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
 - Mga Tools<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843262-d86a5975-c898-4de9-94c8-555c29568445.png">
   - Martilyo
   - Screwdriver
