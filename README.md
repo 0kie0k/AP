@@ -19,14 +19,14 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
   - Thermometer
 - Emergency food and water<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843185-7739724d-e52d-439a-91f1-f053d1f239d6.png">
   - Canned Goods
-  - Cracker o mga Biscuit
+  - Cracker o mga Biscuit<img align="right" height="55" src="https://user-images.githubusercontent.com/102717555/190843509-201702e5-a1e4-450c-b73e-d38cee2bc13b.png">
 - Can opener
-- Essential na gamot
-- Respiratory (breathing) protection<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843509-201702e5-a1e4-450c-b73e-d38cee2bc13b.png">
-- Eye protection (goggles)<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843410-b12513b3-6960-4d78-b775-cb34d1757b83.png">
-- Battery-powered radio<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
-- Mga Tools<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843262-d86a5975-c898-4de9-94c8-555c29568445.png">
-  - Martilyo
+- Essential na gamot<img align="right" height="60" src="https://user-images.githubusercontent.com/102717555/190843410-b12513b3-6960-4d78-b775-cb34d1757b83.png"><img align="right" height="85" src="https://user-images.githubusercontent.com/102717555/190843262-d86a5975-c898-4de9-94c8-555c29568445.png">
+- Respiratory (breathing) protection
+- Eye protection (goggles)
+- Battery-powered radio
+- Mga Tools<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
   - Screwdriver
   - Gunting
+  - Martilyo
 
