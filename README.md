@@ -143,4 +143,4 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
 
 [Pagkatapos](https://www.cdc.gov/disasters/volcanoes/after.html)
 
-<p style="text-align:right;"> Gawa ni Amiel.</p> :+1:
+<p style="text-align:right;"> Gawa ni Amiel.</p> 
