@@ -25,8 +25,8 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Respiratory (breathing) protection
 - Eye protection (goggles)
 - Battery-powered radio
-- Mga Tools<img align="right" height="90" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
-  - Screwdriver
+- Mga Tools
+  - Screwdriver<img align="right" height="90" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
   - Gunting
   - Martilyo
 ### Kapag inatasan na lumikas
@@ -49,3 +49,56 @@ Manatili sa loob ng bahay, Isarado power grid ng bahay at mga bintana at pintuan
 ### Kung papunta sa iyong direksiyon ang lahar o lava
 - Lumikas agad ng lugar.
 - Kung may sasakyan, gamitin ito sa paglilikas at tumungo sa pinakamalapit na evacuation center.
+## Pagkatapos
+May mga panganib pa rin kahit tapos na ang kalamidad. Ang ashfall ay isa dito,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
