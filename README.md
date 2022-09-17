@@ -1,6 +1,5 @@
 <center><h1>Pagputok ng Bulkan</h1></center>
 
-
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/102717555/190837614-6fac1153-be4d-4c48-afb6-37cc7d46342a.png">
 </p>
@@ -141,62 +140,3 @@ May kasamang impormasyon sa paglanghap ng usok at iba pang mga panganib sa wildf
 [Habang](https://www.cdc.gov/disasters/volcanoes/during.html)
 
 [Pagkatapos](https://www.cdc.gov/disasters/volcanoes/after.html)
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
