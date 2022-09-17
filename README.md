@@ -1,4 +1,4 @@
-# <p><center>Pagputok ng Bulkan</p>
+# <center>Pagputok ng Bulkan<center>
   
 <p align="center">
   <img width="600" height="300" src="https://user-images.githubusercontent.com/102717555/190837614-6fac1153-be4d-4c48-afb6-37cc7d46342a.png">
@@ -48,6 +48,8 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 ## Habang
 
 Manatili sa loob ng bahay, Isarado power grid ng bahay at mga bintana at pintuan. Lumayo sa mga bagay na madaling masira tulad ng mga mababasagin na plato at mga bintana. Ang pagpuputok ng bulkan ay maaring magdulot ng mga lindol. Gawin ang Duck, Cover, and Hold sa sakaling mangyari ito. Makinig sa mga update ng radyo at telebisyon.   
+
+<img align="center" height="90" src="https://user-images.githubusercontent.com/102717555/190853329-f1fe9699-ce53-4eca-bf70-fde039c90196.png">
 
 ### Kapag nasa Labas
 
