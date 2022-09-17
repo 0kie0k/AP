@@ -29,28 +29,51 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
   - Screwdriver<img align="right" height="90" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
   - Gunting
   - Martilyo
+
 ### Kapag inatasan na lumikas
+
 - Makinig sa Radyo sa mga update
 - Ireview ang mga emergency plan at ihanda ang mga emergency supplies.
 - Siguraduhin na may laman ang gas tank ng iyong sasakyan
 - Kung walang makipag-ayos sa mga kaibigan o pamilya para sa transportasyon, o sundin ang mga bilin ng mga awtoridad kung saan kukuha ng transportasyon.
 - Punan ang mga lalagyan ng tubig para magkaroon ng supply para sa paghuhugas
+
 ### Kapag inatasan na manatili
+
 - Makinig pa rin sa radyo o telebisyon hanggang sa ligtas na o kung inatasan na lumikas sa iyong tahanan.
 - Saraduhin ang mga bintana at mga pintuan
 - Ayusin ang mga supplies
 - Seguraduhin na gumagana ang radyo att iba pang mga electronic devices
+
 ## Habang
+
 Manatili sa loob ng bahay, Isarado power grid ng bahay at mga bintana at pintuan. Lumayo sa mga bagay na madaling masira tulad ng mga mababasagin na plato at mga bintana. Ang pagpuputok ng bulkan ay maaring magdulot ng mga lindol. Gawin ang Duck, Cover, and Hold sa sakaling mangyari ito. Makinig sa mga update ng radyo at telebisyon.   
+
 ### Kapag nasa Labas
+
 - Humanap ng silungan
 - Kung malapit sa ilog, posible ang pagtaas ng tubig at pag-agos ng putik sa mababang lugar. Maghanap ng mataas na lugar nang mabilis hangga't maaari.
 - Maaaring mairita ang iyong mga mata, at ilong dahil sa mga ash at gas na ibinubuga ng bulkan, lumikas agad sa lugar. Kung maaari, magsuot ng safety gear tulad ng mask o basang tela sa iyong bibig at ilong at safety goggle sa iyong mata upang mabawasan ang epekto nito sa ating katawan.
+
 ### Kung papunta sa iyong direksiyon ang lahar o lava
+
 - Lumikas agad ng lugar.
 - Kung may sasakyan, gamitin ito sa paglilikas at tumungo sa pinakamalapit na evacuation center.
+
 ## Pagkatapos
-May mga panganib pa rin kahit tapos na ang kalamidad. Ang ashfall ay isa dito,
+
+May mga panganib pa rin kahit tapos na ang kalamidad. Ang ashfall ay isa dito. Nakakaapekto ito sa ating kalusugan at maaring magiwan ng sakit na manatili sa ating katawan sa matagal na panahon. Ito ang mga puwede mong gawin upang maprotektahan mo ang iyong pamilya at sarili.
+- Pakinggan ang mga warnings ng mga awtoridad, tulad ng pananatili sa bahay hanggang sa sabihin na ligtas na.
+- Makinig sa radyo o telibisyon tungkol sa kalidad ang hangin, at mga paparating na tulong.
+- Saraduhin ang mga air conditioners at mga electric fan upang hindi pumasok ang abo sa iyong bahay.
+- Magsuot ng goggles upang maprotektahan ang iyong mata laban sa abo
+- Mag-iwas sa mga lugar na maraming abo, kung posible. Iwasan na magcontact ang abo sa iyo. Takluban ang sarili upang maiwasan ang pagiirita ng iyong balat dahil sa abo
+- Lumakbay lang kung kailangan, ang ashfall ay maaring pumunta sa loob ng iyong sasakyan at magdulot ng problema sa makina.
+- Linisin ang bubong: Magabat ang abo kapag tumambak ito at maaring magcollapse ang iyong bubong. Mag-ingat sa paglilinis dahil maaaring madulas sa abo.
+
+# Mga Hindi Dapat Gawin
+
+
 
 
 
