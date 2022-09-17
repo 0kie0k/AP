@@ -25,7 +25,7 @@ Maging handa na sumilong o lumikas. Bumuo ng isang plano sa paglikas at isang pl
 - Respiratory (breathing) protection
 - Eye protection (goggles)
 - Battery-powered radio
-- Mga Tools<img align="right" height="100" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
+- Mga Tools<img align="right" height="97" src="https://user-images.githubusercontent.com/102717555/190843332-c7701cf9-5d67-4137-8935-d77ef2d857cf.png">
   - Screwdriver
   - Gunting
   - Martilyo
